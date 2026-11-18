@@ -105,6 +105,17 @@ Inclui a lista honesta dos incidentes e o que cada um mudou.
 
 ---
 
+## Autoria
+
+Todos os sistemas desta página são meus, do desenho à operação: concepção, arquitetura,
+modelagem de dados, implementação, implantação e manutenção em produção — inclusive o
+servidor onde rodam. Cada decisão técnica listada aqui foi tomada e executada por mim,
+contra um sistema real, com gente usando do outro lado.
+
+Durante o desenvolvimento usei assistentes de IA (Codex e Claude) como ferramenta de apoio,
+do mesmo jeito que se usa um editor, um depurador ou documentação. A condução, a integração
+entre as partes e a responsabilidade pelo que foi para produção são minhas.
+
 ## Observação sobre as cópias públicas
 
 Todos os repositórios são cópias publicadas dos projetos reais. Em todos:
